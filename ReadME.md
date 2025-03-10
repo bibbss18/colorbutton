@@ -1,1 +1,1 @@
-Exemplu cu butoane in HTML si CSS
+Exemplu cu butoane in HTML si SSH
