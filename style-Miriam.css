@@ -17,3 +17,25 @@
     border-radius: 35px;
     font-weight: bold;
 }
+
+.btn-secondary-empty
+{
+    background-color: #ffffff;
+    color:rgb(49, 37, 226);
+    border-color: blue;
+    padding: 15px;
+    border width: 5px ;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.btn-secondary-pill2
+{
+    background-color: #ffffff;
+    color:rgb(48, 88, 161);
+    border-color: blue;
+    padding: 15px;
+    border: width 5px; ;
+    border-radius: 35px;
+    font-weight: bold;
+}
