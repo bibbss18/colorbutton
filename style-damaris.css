@@ -7,3 +7,12 @@
     font-weight: bold;
 
 }
+.btn-success-pill{
+    background-color: #00ff00;
+    color:white;
+    padding: 15px;
+    border: none;
+    border-radius: 35px;
+    font-weight: bold;
+
+}
