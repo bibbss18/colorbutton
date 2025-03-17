@@ -1,3 +1,7 @@
+body {
+    background-color: grey;
+}
+
 .btn-Primary
 {
     background-color: indigo;
@@ -5,5 +9,14 @@
     padding: 15px;
     border: none;
     border-radius: 5px;
+    font-weight: bold;
+}
+
+.btn-Primary-pill {
+    background-color: indigo;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 35px;
     font-weight: bold;
 }
