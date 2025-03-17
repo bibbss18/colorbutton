@@ -6,5 +6,14 @@
     border: none;
     border-radius: 10px;
     font-weight: bold;
+}
 
+.btn-secondary-pill
+{
+    background-color: rgba(103, 139, 216, 0.596);
+    color:white;
+    padding: 15px;
+    border: none;
+    border-radius: 35px;
+    font-weight: bold;
 }
